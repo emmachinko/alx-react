@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """Defines island perimeter finding function."""
 
 
